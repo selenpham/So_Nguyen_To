@@ -32,7 +32,7 @@ public class Thuchanh3_So_Nguyen_To {
     			countSoNguyen ++; 
 	   			System.out.print(i + " ");
     		}
-	   	}
+	   }
     	System.out.println();
         System.out.println("Tong cac so nguyen to từ 1 den " + N + ": " + countSoNguyen);
      }
