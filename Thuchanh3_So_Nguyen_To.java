@@ -25,6 +25,7 @@ public class Thuchanh3_So_Nguyen_To {
 	   	System.out.println("Nhap so N>0: ");
     	int N = scanner.nextInt();
 
+//Tạo vòng lặp đếm số nguyên tố cho tới khi thỏa mãn tổng >=100
     	int countSoNguyen = 0;
 		System.out.print("Cac so nguyen to tu 1 den " + N + " la: ");
     	for(int i=2;i<=N;i++){ 
